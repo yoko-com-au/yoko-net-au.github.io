@@ -1,0 +1,51 @@
+html {
+	font-family: sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #333;
+	background: url(../images/background.gif);
+}
+
+.page { display:block;	margin:auto; width: 800px; height: 700px; }
+img { border:none; display: block; position: relative; }
+
+#title { top: 60px; display:none; }
+#leaf1 { top: -250px; left: 600px; display: none;}
+#leaf2 { top: -280px; left: 500px; display: none;}
+#leaf3 { top: -390px; left: 600px; display: none;}
+#leaf4 { top: -520px; left: 430px; display: none;}
+#leaf5 { top: -540px; left: 460px; display: none;}
+#leaf6 { top: -680px; left: 240px; display: none;}
+#leaf7 { top: -730px; left: 270px; display: none;}
+
+#symbol1 { top: -895px; left: 270px; display: none;}
+#symbol2 { top: -960px; left: 440px; display: none;}
+#symbol3 { top: -1170px; left:380px; display: none;}
+#symbol4 { top: -1180px; left: 550px; display: none;}
+#symbol5 { top: -1365px; left: 470px; display: none;}
+#symbol6 { top: -1530px; left: 550px; display: none;}
+#symbol7 { top: -1560px; left: 750px; display: none;}
+
+#menu {
+	position: absolute;
+	top: 430px;
+}
+
+#menu ul {
+	list-style: none;
+}
+
+#menu a, #menu a:visited {
+	font-size: 30px;
+	font-family: georgia;
+	line-height: 20px;
+	color: #dd0000;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+}
+
+#menu a:hover {
+	background-color: #dd0000;
+	color: white;
+}

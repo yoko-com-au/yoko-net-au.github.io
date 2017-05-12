@@ -1,0 +1,69 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--  -->
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+	<meta name="keywords" content="yoko,paper,printing">
+	
+	<title>Yoko</title>
+	
+	
+
+	<link href="css/main.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="css/forms.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="css/admin.css" rel="stylesheet" type="text/css" media="screen" />
+	
+<link href="css/news.css" rel="stylesheet" type="text/css" media="screen" />
+
+		
+	
+
+		<script type="text/javascript" src="script/jquery-1.2.6.min.js"></script>
+	
+
+
+
+
+</head>
+
+<body>
+	<a href="index.html" alt="home">
+		<img class="title" src="images/header.gif"/>
+	</a>
+	
+	
+	
+	<div class="centered" id="menu">
+		<a href="bio">Bio</a>&nbsp;<a href="contact">Contact</a>
+	</div>
+	
+	<div id="content" class="centered">
+		<h1>News</h1>
+	
+
+
+<div class="newsItems">
+
+<div class="newsItem">
+	<h2 class="title">This is a test</h2>
+	<div class="text">testing 123</div>
+	<div class="images">
+		
+	</div>	
+	<div class="date">2008-12-11 00:11:42.902989</div>
+
+	
+	
+</div>
+
+</div>
+
+
+	</div>
+
+</body>
+	
+</html>

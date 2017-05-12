@@ -1,0 +1,32 @@
+input {
+      border: 1px solid #ffaaaa;
+      font-family: sans-serif;
+      font-size: 12px;
+}
+
+textarea {
+	 border: 1px solid #ffaaaa;
+	 margin: 0px;
+	 width: 540px;
+	 padding: 10px;
+	 font-family: sans-serif;
+	 font-size: 12px;
+}
+
+label {
+      display: block;
+}
+
+.formTable th {
+vertical-align: top;
+text-align:right;
+}
+
+.formTable th label {
+width: 90px;
+margin-right: 10px;
+}
+
+.formButtons {
+margin-left: 100px;
+}
